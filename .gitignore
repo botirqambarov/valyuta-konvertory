@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.env
+profiles/
+logs/
+failed_checks_*.xlsx
+.DS_Store
+
+# Embedded default Gemini API key (per-deployment, never commit)
+soliq_bot/_default_key.py
+
